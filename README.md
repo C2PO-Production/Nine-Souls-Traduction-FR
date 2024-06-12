@@ -2,9 +2,11 @@
 Fan traduction du jeu Nine Souls
 
 # Installation :
-- Téléchargez le fichier Nine_Sols_FR_0.1.zip et extraire dans (C:\Program Files (x86)\Steam\steamapps\common\Nine Sols)
+- Téléchargez le fichier <b>Nine_Sols_FR_0.1.zip</b> et extraire dans le dossier d'installation de votre jeu
+<br><b>(C:\Program Files (x86)\Steam\steamapps\common\Nine Sols)</b>
 - Lancez : SetupReiPatcherAndAutoTranslator.exe
-- Lancez : NineSouls (Patch and Run)
+- Lancez : <b>NineSouls (Patch and Run)</b> pour profiter de la traduction
+- Vous pouvez lancer votre jeu normalement une fois le patch appliqué.
 
 # Participer à la Traduction
 - Téléchargez Notepad++
