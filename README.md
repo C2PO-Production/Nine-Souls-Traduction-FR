@@ -2,7 +2,7 @@
 Fan traduction du jeu Nine Souls
 
 # Installation :
-- Téléchargez le dépôt Github à la racine de votre jeu (C:\Program Files (x86)\Steam\steamapps\common\Nine Souls)
+- Téléchargez le dépôt Github à la racine de votre jeu (C:\Program Files (x86)\Steam\steamapps\common\Nine Sols)
 - Lancez : SetupReiPatcherAndAutoTranslator.exe
 - Lancez : NineSouls (Patch and Run)
 
